@@ -28,14 +28,14 @@ body{
 
 
 /* Body Header Styles */
-/**/
+/*changes the color of the background*/
 body header{
    background-color: rgba(51,51,51,0.5);
 }
 
 
 /* Aside Styles */
-
+/*angles the aside elements and makes the corners rounded*/
 section aside{
    border: 10px double rgba(92,42,8,0.3);
    border-radius: 30px;
@@ -55,7 +55,8 @@ section#right aside{
 }
 
 /* Cube Styles */
-
+/*positions the different pictures in the same place then arranging them into their 
+designated place*/
 div#cube{
    position: relative;
    margin-top: 180px;
